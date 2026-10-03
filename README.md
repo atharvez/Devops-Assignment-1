@@ -1,6 +1,6 @@
-﻿# DevOps Assignment 1 ðŸš€
+# DevOps Assignment 1
 
-University DevOps coursework â€” Assignment 1: Git workflows, CI/CD basics, and containerization.
+University DevOps coursework -- Assignment 1: Git workflows, CI/CD basics, containerization.
 
 ## Topics Covered
 
@@ -14,7 +14,6 @@ University DevOps coursework â€” Assignment 1: Git workflows, CI/CD basics,
 ```bash
 git clone https://github.com/atharvez/Devops-Assignment-1.git
 cd Devops-Assignment-1
-# Follow task-specific instructions in each folder
 ```
 
 ## Learning Outcomes
@@ -25,4 +24,4 @@ cd Devops-Assignment-1
 
 ## Course
 
-DevOps Engineering â€” [Atharva Desai](https://github.com/atharvez)
+DevOps Engineering -- Atharva Desai
